@@ -1,16 +1,101 @@
-## Hi there 👋
+# 🚀 Anuj Upadhyay — Portfolio
 
-<!--
-**anilu2660/anilu2660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Hi, I’m **Anuj Upadhyay**, a Computer Science Engineering student, AI enthusiast, and aspiring innovator passionate about building technology that impacts real people.
 
-Here are some ideas to get you started:
+I enjoy working at the intersection of:
+- 🤖 Artificial Intelligence  
+- 🧠 Problem Solving  
+- 🌍 Social Impact Tech  
+- 📜 History + Technology Integration  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+- 🎓 B.Tech in Computer Science Engineering  
+  - Amity University Mumbai  
+
+
+## 💡 What I Do
+- 💻 Build intelligent applications using Python and AI tools  
+- ⚙️ Work with algorithms and data structures  
+- 🧠 Explore AI systems like LLMs and agent-based architectures  
+- 📊 Evaluate AI model outputs (RLHF experience)  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+- C  
+- C++  
+- Python  
+- JavaScript
+- Java 
+
+### 🌐 Web Technologies
+- REACT
+- NEXT
+ 
+
+### 🤖 AI & Tools
+- Prompt Engineering  
+- Model Evaluation (GPT, Gemini, Claude)  
+- Machine learning, langchain
+
+### 🗄️ Concepts
+- Data Structures & Algorithms  
+- Problem Solving  
+- Logic Building  
+
+---
+
+## 🚀 Projects
+
+### 🔹 NyayaSetu
+> AI-powered legal awareness platform
+
+- Simplifies Indian legal system (BNS)  
+- Multilingual + Voice-enabled assistant  
+- Focused on rural and semi-urban users  
+
+---
+## 💼 Experience
+
+### 🔹 AI Freelancing — Outlier AI
+- Evaluated AI model responses (RLHF tasks)  
+- Compared outputs from GPT, Gemini, Claude  
+- Improved prompt quality  
+
+
+## 🧠 Interests
+- Artificial Intelligence & LLMs  
+- Quantum Computing  
+- History + AI Simulation  
+- Philosophy & Strategy  
+- Politics  
+
+---
+
+## 🎯 Vision
+I aim to build:
+- ⚡ Scalable AI systems  
+- 🌍 Impact-driven platforms  
+- 🧠 Intelligent assistants for real-world problems  
+
+---
+
+## 📌 Current Goals
+- 🚀 Get AI/ML Internship  
+- 🤖 Build LLM-based applications  
+- 📈 Improve ML models  
+- 🧠 Learn Agentic AI systems  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: upadhyayanuj526@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/anuj-anil-upadhyay-6a2104327/
+  
+
+---
