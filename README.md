@@ -88,7 +88,6 @@ KrishiDoot.AI is an Autonomous Negotiation System and Crop Management Platform s
 - Politics  
 
 ---
-
 ## 🎯 Vision
 I aim to build:
 - ⚡ Scalable AI systems  
