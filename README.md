@@ -1,7 +1,7 @@
 # 🚀 Anuj Upadhyay — Portfolio
 
 ## 👨‍💻 About Me
-Hi, I’m **Anuj Upadhyay**, a Computer Science Engineering student, AI enthusiast, and aspiring innovator passionate about building technology that impacts real people.
+Hi, I’m **Anuj Upadhyay**, a Computer Science Engineering student, AI enthusiast, and aspiring innovator passionate about building technology that impacts real people. GSSOC 2026
 
 I enjoy working at the intersection of:
 - 🤖 Artificial Intelligence  
